@@ -1,1 +1,2 @@
 # OIBSIP-DS-Task-3
+A car's value is intricately woven from a multitude of factors, encompassing the esteemed goodwill of its brand, an enticing array of features, the powerful allure of its horsepower, and the efficiency it demonstrates through mileage, among a myriad of other determinants. One can master the complexities of data preprocessing, adeptly engineer meaningful features, and skillfully craft prediction models to accurately estimate car prices.
